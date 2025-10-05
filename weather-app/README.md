@@ -1,0 +1,1 @@
+The problem we want to solve is that job seekers spend too much time tailoring resumes and cover letters for each role. Many lose opportunities because their applications are not aligned with the exact skills employers highlight.
